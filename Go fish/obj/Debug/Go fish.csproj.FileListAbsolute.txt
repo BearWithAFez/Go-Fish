@@ -1,0 +1,5 @@
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\Go fish\Go fish\bin\Debug\Go fish.exe
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\Go fish\Go fish\bin\Debug\Go fish.pdb
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\Go fish\Go fish\obj\Debug\Go fish.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\Go fish\Go fish\obj\Debug\Go fish.exe
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\Go fish\Go fish\obj\Debug\Go fish.pdb
